@@ -1,5 +1,7 @@
 Cisco Packet Tracer Russian Translation File.
+
 Закинуть по пути: C:\Program Files\Cisco Packet Tracer 9.0.0\languages
+
 Далее в Options выбрать перевод и перезапустить СРТ
 
 Частичный перевод для CPT 9.0.0. Основан на этом переводе: https://github.com/DeNcHiK3713/Cisco-Packet-Tracer-Russian-Translation-File 
