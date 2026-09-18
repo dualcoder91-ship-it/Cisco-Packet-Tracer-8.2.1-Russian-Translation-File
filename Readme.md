@@ -1,4 +1,4 @@
-Cisco Packet Tracer Russian Translation File.
+# Cisco Packet Tracer Russian Translation File.
 
 Закинуть по пути: C:\Program Files\Cisco Packet Tracer 9.0.0\languages
 
