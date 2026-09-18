@@ -6,7 +6,7 @@ Cisco Packet Tracer Russian Translation File.
 
 Частичный перевод для CPT 9.0.0 (Переведено премерно 70% от всех функций.)
 
-Основан на этом переводе: [этом переводе](https://github.com/DeNcHiK3713/Cisco-Packet-Tracer-Russian-Translation-File )
+Основан на [этом переводе](https://github.com/DeNcHiK3713/Cisco-Packet-Tracer-Russian-Translation-File )
 
 Перевёл через ИИ, весь основной пользовательский интерфейс, настройки администрирования, окружение симуляции, диалоги устройств, беспроводные настройки, DHCP/NAT/маршрутизацию, скрипты, IP-телефонию, мастер заданий и т.д. стараясь придерживаться терминологии.
 
